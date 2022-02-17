@@ -1,3 +1,7 @@
+*{
+    font-family: 'Raleway', sans-serif;
+}
+
 .Horizontal_card {
     justify-content: center;
     padding: 1rem;

@@ -1,0 +1,22 @@
+*{
+    font-family: 'Raleway', sans-serif;
+}
+
+.Horizontal_card {
+    justify-content: center;
+    padding: 1rem;
+}
+
+.homepage_bottom_card{
+    margin-top: 2rem;
+    gap: 1rem;
+}
+
+.content_about{
+    padding: 0.5rem 0;
+}
+
+.navigation{
+    position: fixed;
+    background: var(--white);
+}

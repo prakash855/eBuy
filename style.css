@@ -19,4 +19,5 @@
 .navigation{
     position: fixed;
     background: var(--white);
+    z-index: 1;
 }

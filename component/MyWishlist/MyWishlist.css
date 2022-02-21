@@ -1,0 +1,15 @@
+.mywishlist_container {
+  position: relative;
+  top: 3rem;
+  gap: 2rem;
+  margin: 1rem;
+}
+
+.move_to_cart_btn {
+  width: 100%;
+}
+
+.wishlist_head{
+    position: relative;
+    top: 4rem;
+}

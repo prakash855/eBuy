@@ -4,6 +4,11 @@
     margin: 0 4rem;
 }
 
+.mycart_head{
+    position: relative;
+    top: 4rem;
+}
+
 .mycart_price{
     justify-content: space-between;
 }

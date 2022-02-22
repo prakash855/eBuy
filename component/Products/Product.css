@@ -28,3 +28,12 @@
 .content{
     gap: 2rem;
 }
+
+.products_head{
+    position: relative;
+    top: 4rem;
+}
+
+.container{
+    top: 3rem;
+}

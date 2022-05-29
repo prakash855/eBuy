@@ -6,7 +6,7 @@
 
 .auth{
     padding: 2rem;
-    width: 30%;
+    margin: 0.5rem;
     justify-content: space-between;
     flex-direction: column;
 }
